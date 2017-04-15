@@ -66,6 +66,3 @@ export function stopThreads (tags) {
   taggedList.deleteAll(tags)
 
 }
- 
-
-  
