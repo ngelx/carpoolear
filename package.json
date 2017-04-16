@@ -9,6 +9,7 @@
     "build": "node build/build.js",
     "cordova-build": "node build/cordova-testing-build.js",
     "lint": "eslint --ext .js,.vue src",
+    "lint-debug": "eslint --debug --ext .js,.vue src",
     "postinstall": "node build/make-folders.js"
   },
   "dependencies": {
