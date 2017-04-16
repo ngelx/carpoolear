@@ -1,3 +1,7 @@
+[![Code Climate](https://codeclimate.com/github/ngelx/carpoolear/badges/gpa.svg)](https://codeclimate.com/github/ngelx/carpoolear)
+[![Test Coverage](https://codeclimate.com/github/ngelx/carpoolear/badges/coverage.svg)](https://codeclimate.com/github/ngelx/carpoolear/coverage)
+[![Issue Count](https://codeclimate.com/github/ngelx/carpoolear/badges/issue_count.svg)](https://codeclimate.com/github/ngelx/carpoolear)
+
 # Carpoolear frontend
 
 Carpoolear es la primera aplicación argentina de Facebook que permite a los usuarios de dicha red social compartir viajes en automóvil con otros usuarios de su entorno.
