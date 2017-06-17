@@ -37,10 +37,10 @@ git clone https://github.com/{you}/carpoolear.git
 # OSX
 ln -s docker-compose-osx.yml docker-compose.yml
 
-# Linux
+# Linux (coming soon)
 ln -s docker-compose-linux.yml docker-compose.yml
 
-# Windows
+# Windows (coming soon)
 ln -s docker-compose-win.yml docker-compose.yml
 ```
 
