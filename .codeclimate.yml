@@ -31,4 +31,4 @@ exclude_paths:
   - build/
   - cordova/
   - static/
-  - src/styles/bootstrap/js
+  - src/styles/bootstrap/
